@@ -1,2 +1,2 @@
-print"Segunda Prueba"
+print("Segunda Prueba")
 
